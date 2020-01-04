@@ -1,1 +1,1 @@
-java -cp /home/greg/projects/jextconv Smb
+java -cp /home/greg/projects/jextconv/target/classes com.avalokita.jextconv.DldConv
